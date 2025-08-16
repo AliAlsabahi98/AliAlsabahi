@@ -1,7 +1,9 @@
 <h1>Hi, I'm Ali! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Med Technician</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Praciting DS & Algos in Python](https://github.com/AliAlsabahi98/Dogshelters)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -11,7 +13,7 @@
 [linkedin]: https://www.linkedin.com/in/alialsabahi/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
